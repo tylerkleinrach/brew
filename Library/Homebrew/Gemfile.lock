@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
     ast (2.4.1)
-    bindata (2.4.8)
+    bindata (2.4.10)
     byebug (11.1.3)
     codecov (0.2.15)
       simplecov (>= 0.15, < 0.21)
